@@ -23,6 +23,10 @@
     <priority>1</priority>
 </url>  
 <url>
+    <loc>https://fescue.github.io/Trojena-Golf-Resort/</loc>
+    <priority>1</priority>
+</url>
+<url>
     <loc>https://fescue.github.io/2018/</loc>
     <priority>1</priority>
 </url>
@@ -723,3 +727,4 @@
   <priority>1</priority>
 </url>
 </urlset>
+
