@@ -11,6 +11,10 @@
   <priority>1</priority>
 </url>
 <url>
+    <loc>https://fescue.github.io/Halbert-National/</loc>
+    <priority>1</priority>
+</url>
+<url>
     <loc>https://fescue.github.io/NLE/</loc>
     <priority>1</priority>
 </url>
@@ -727,4 +731,5 @@
   <priority>1</priority>
 </url>
 </urlset>
+
 
