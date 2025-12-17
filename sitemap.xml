@@ -1,6 +1,7 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
-        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" 
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
     <loc>https://fescue.github.io/</loc>
@@ -51,19 +52,11 @@
     <priority>1</priority>
 </url>
 <url>
-    <loc>https://fescue.github.io/Scott-Schreiner-Golf-Muni/</loc>
-    <priority>1</priority>
-</url>
-<url>
     <loc>https://fescue.github.io/Battle-Run-Golf-Course/</loc>
     <priority>1</priority>
 </url>
 <url>
     <loc>https://fescue.github.io/Laheq-Island-Golf/</loc>
-    <priority>1</priority>
-</url>
-<url>
-    <loc>https://fescue.github.io/Battle-Run-Golf-Course/</loc>
     <priority>1</priority>
 </url>
 <url>
@@ -715,10 +708,6 @@
   <priority>1</priority>
 </url>
 <url>
-  <loc>https://fescue.github.io/2022/</loc>
-  <priority>1</priority>
-</url>
-<url>
   <loc>https://fescue.github.io/2021/</loc>
   <priority>1</priority>
 </url>
@@ -735,6 +724,7 @@
   <priority>1</priority>
 </url>
 </urlset>
+
 
 
 
