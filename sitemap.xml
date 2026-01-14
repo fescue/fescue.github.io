@@ -24,6 +24,18 @@
     <priority>1</priority>
 </url>
 <url>
+    <loc>https://fescue.github.io/NLE/</loc>
+    <priority>1</priority>
+</url>
+<url>
+    <loc>https://fescue.github.io/Fall-Line-East-Course/</loc>
+    <priority>1</priority>
+</url>
+<url>
+    <loc>https://fescue.github.io/Fall-Line-West-Course/</loc>
+    <priority>1</priority>
+</url>  
+<url>
     <loc>https://fescue.github.io/Lazy-J/</loc>
     <priority>1</priority>
 </url>
@@ -724,6 +736,7 @@
   <priority>1</priority>
 </url>
 </urlset>
+
 
 
 
